@@ -6,6 +6,7 @@ Recommendation System
 You can see more detials of this work at iNetworks_ML_Task-Round 2.pdf and more explanation at 03_Report.ipynb
 
 ### Description of the problem: 
+
 - Job functions and job titles are very different things.
 
 - A job title is essentially the name of a position within an organization filled by an employee. 
